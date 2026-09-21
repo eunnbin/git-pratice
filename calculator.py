@@ -3,5 +3,8 @@ def add(a, b) :
 
 print(add(10, 5))
 
+def sub(a, b) :
+    return a - b
+
 def multiply(a, b) :
     return a * b
